@@ -1,0 +1,31 @@
+﻿.content {
+    background-color: #fff;
+}
+
+.title {
+    background-color: #2196f3;
+}
+
+.label-bg {
+    background-color: #8bc34a;
+}
+
+.label-time-bg {
+    background-color: #616161;
+}
+
+.text-tho {
+    color: #0000ff;
+    font-weight: 500;
+}
+
+.img-size {
+    width: 70%;
+    height: 90%;
+    border: 1px solid #ddd;
+}
+
+.txb-width {
+    width: 80%;
+    background-color: #ebebe4;
+}
